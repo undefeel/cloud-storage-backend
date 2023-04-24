@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+typer
+python-jose
+injector
+redis
+SQLAlchemy==2.0.10
+psycopg2
+pydantic
+asyncpg
+

@@ -8,4 +8,3 @@ SQLAlchemy==2.0.10
 psycopg2
 pydantic
 asyncpg
-

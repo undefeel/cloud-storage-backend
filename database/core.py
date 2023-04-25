@@ -14,7 +14,3 @@ async def get_sessiom() -> AsyncSession:
         yield local_session
     finally:
         await local_session.close()
-
-
-class Base(DeclarativeBase):
-    pass
